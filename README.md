@@ -76,8 +76,9 @@ scikit-learn, pandas, numpy
 
 🚀 How to Run
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Fake-News-Detection.git
-cd Fake-News-Detection
+git clone https://github.com/vinod8930/Fake-News-Detection-Using-Deep-Learning.git
+cd Fake-News-Detection-Using-Deep-Learning
+
 
 # 2. Create a virtual environment
 conda create -n fake-news python=3.10
